@@ -1,0 +1,28 @@
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\bin\Debug\tennis.exe.config
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\bin\Debug\tennis.exe
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\bin\Debug\tennis.pdb
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\obj\Debug\tennis.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\obj\Debug\tennis.exe
+C:\Users\Zver\Desktop\prog\c#\tennis\tennis\obj\Debug\tennis.pdb
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\bin\Debug\tennis.exe.config
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\bin\Debug\tennis.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\bin\Debug\tennis.pdb
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\obj\Debug\tennis.csproj.AssemblyReference.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\obj\Debug\tennis.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\теннис\tennis\tennis\obj\Debug\tennis.pdb
+C:\Users\Zver\Desktop\теннис\tennis\tennis\bin\Debug\tennis.exe.config
+C:\Users\Zver\Desktop\теннис\tennis\tennis\bin\Debug\tennis.exe
+C:\Users\Zver\Desktop\теннис\tennis\tennis\bin\Debug\tennis.pdb
+C:\Users\Zver\Desktop\теннис\tennis\tennis\obj\Debug\tennis.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\теннис\tennis\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\теннис\tennis\tennis\obj\Debug\tennis.exe
+C:\Users\Zver\Desktop\теннис\tennis\tennis\obj\Debug\tennis.pdb
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\bin\Debug\tennis.exe.config
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\bin\Debug\tennis.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\bin\Debug\tennis.pdb
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\obj\Debug\tennis.csproj.AssemblyReference.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\obj\Debug\tennis.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\tennis\obj\Debug\tennis.pdb
