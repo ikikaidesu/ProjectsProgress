@@ -5,6 +5,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/.NET CSharp-7.3-blueviolet" alt="Csharp version">
     <img src="https://img.shields.io/badge/.NET-4.7.2-blueviolet" alt=".Net version">
+    <img src="https://img.shields.io/badge/difficult-easy-blueviolet" alt="difficult">
 </p>
 
 <p align="center">
