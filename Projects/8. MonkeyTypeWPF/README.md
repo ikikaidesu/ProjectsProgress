@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Newtonsoft.Json-13.0.3-blueviolet" alt="Newtonsoft.Json">
     <img src="https://img.shields.io/badge/Ookii.Dialogs.WPF-5.0.1-blueviolet" alt="Ookii.Dialogs.WPF">
     <img src="https://img.shields.io/badge/OxyPlot.WPF-2.1.2-blueviolet" alt="OxyPlot.WPF">
+    <img src="https://img.shields.io/badge/difficult-easy-blueviolet" alt="difficult">
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@
 ## About
 
 <p>Monkeytype is a minimalistic and customizable <a href="https://www.monkeytype.com">typing test</a>. It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate a natural typing experience during a typing test by unobtrusively presenting the text prompts and displaying typed characters in place, providing straightforward, real-time feedback on typos, speed, and accuracy.<br><br>
-<code>from myself:</code> When creating this project, I studied such a pattern as MVVM for WPF. Studying it was not easy for me due to the fact that there is quite a bit of information on it, which is why I often turned to SO, created crutches, or perhaps (most likely) violated the pattern altogether. While creating the project, I tried something new (which you can notice, because sometimes there are things that I wrote differently).</p>
+<code>from myself:</code> When creating this project, I studied such a pattern as MVVM for WPF. Studying it was not easy for me due to the fact that there is quite a bit of information on it, which is why I often turned to SO, created crutches, or perhaps (most likely) violated the pattern altogether. While creating the project, I tried something new (which you can notice, because sometimes there are things that I wrote differently). The project took 40 days (+- a week I didn’t even go into the project) and the main difficulty was learning MVVM and wpf. Now, having the knowledge, I can say that the project was not difficult and, in my opinion, a person can become familiar with MVVM in a week or less.</p>
 
 
 ## Disadvantages
