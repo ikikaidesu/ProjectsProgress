@@ -5,6 +5,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/.NET CSharp-blueviolet" alt="Csharp">
     <img src="https://img.shields.io/badge/wpf-blueviolet" alt="wpf">
+    <img src="https://img.shields.io/badge/difficult-easy-blueviolet" alt="difficult">
 </p>
 
 <p align="center">
