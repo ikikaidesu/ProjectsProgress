@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Python-3.10.6-blueviolet" alt="Python Version">
     <img src="https://img.shields.io/badge/Tkinter-8.6-blueviolet" alt="Tkinter Version">
     <img src="https://img.shields.io/badge/PyTube-15.0.0-blueviolet" alt="Tkinter Version">
+    <img src="https://img.shields.io/badge/difficult-easy-blueviolet" alt="difficult">
 </p>
 
 ## About
